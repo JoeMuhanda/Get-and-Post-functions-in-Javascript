@@ -1,0 +1,38 @@
+{
+  "aData": [
+    {
+      "id": 1,
+      "anime_name": "bleach",
+      "anime_img": "https://eaxmpleimage.com/"
+    },
+    {
+      "id": 2,
+      "anime_name": "black_clover",
+      "anime_img": "https://eaxmpleimage2.com/"
+    },
+    {
+      "anime_name": "Penguin",
+      "id": 3
+    },
+    {
+      "anime_name": "Penguiniu",
+      "anime_img": "https://en.wikipedia.org/wiki/File:Penguins_collage.png",
+      "id": 4
+    },
+    {
+      "anime_name": "rtdfe",
+      "anime_img": "https://en.wikipedia.org/wiki/File:Penguins_collage.png",
+      "id": 5
+    },
+    {
+      "anime_name": "Penguin",
+      "anime_img": "https://en.wikipedia.org/wiki/File:Penguins_collage.png",
+      "id": 6
+    },
+    {
+      "anime_name": "Penguin",
+      "anime_img": "https://en.wikipedia.org/wiki/File:Penguins_collage.png",
+      "id": 7
+    }
+  ]
+}
