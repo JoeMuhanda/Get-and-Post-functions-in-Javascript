@@ -1,4 +1,15 @@
+#contact-form{
+	display: block;
+	max-width: 600px;
+	margin: 0 auto;
+	border: 1px solid var(--borderColor);
+	padding: 15px;
+	border-radius: 5px;
+	background-color: var(--mainColor);
+	margin-bottom: 50px;
+    
 
+}
 
 #contact-form label{
 	line-height: 2.7em;
