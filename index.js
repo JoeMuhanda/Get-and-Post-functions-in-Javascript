@@ -14,7 +14,7 @@ function submitFn(e){
 
 
 // DOM render function
-function returnOneAnimal(animal){
+function returnOneAnimal(animal)
     //build animal
     let tempView = document.createElement('li')
     tempView.innerHTML = `
