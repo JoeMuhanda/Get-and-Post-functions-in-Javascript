@@ -47,7 +47,7 @@ function postAnimal(animalObj){
             'Accept': 'application/json',
             'Content-Type': 'application/json'
         },
-        body:JSON.stringify(animalObj)
+       
 
     })
     .then(result => result.json())
