@@ -18,7 +18,11 @@ function returnOneAnimal(animal){
             <h1>${animal.anime_name}</h1>
         </div>
         <img src="${animal.anime_img}">
-    `
+    `  }
+    returnOneAnimal(animalObj)
+    postAnimal(animalObj)
+}
+
     //console.log(tempView);
     //Add animal temView to DOM
     document.querySelector('#animal-list').appendChild(tempView)
