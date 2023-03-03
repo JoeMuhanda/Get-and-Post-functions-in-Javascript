@@ -52,13 +52,5 @@ function postAnimal(animalObj){
     })
     .then(result => result.json())
     .then(animal => console.log(animal))
-}
- body:JSON.stringify(animalObj)
-//initial Render
-//Get data and render it to the DOM
-function initialFn(){
-    fetchAllAnimalData()
-    //aData.forEach(animal => oneAnimal(animal));
-}
-initialFn()
+
 
