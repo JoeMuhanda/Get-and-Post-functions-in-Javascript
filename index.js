@@ -7,11 +7,7 @@ function submitFn(e){
     let animalObj = {
         anime_name:e.target.anime_name.value,
         anime_img:e.target.anime_image.value
-    }
-    returnOneAnimal(animalObj)
-    postAnimal(animalObj)
-}
-
+  
 
 // DOM render function
 function returnOneAnimal(animal){
