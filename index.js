@@ -1,8 +1,7 @@
 //event listener
 document.querySelector('#animal-form').addEventListener('submit', submitFn)
 
-//Event handlers
-function submitFn(e){
+
     e.preventDefault()
     let animalObj = {
         anime_name:e.target.anime_name.value,
